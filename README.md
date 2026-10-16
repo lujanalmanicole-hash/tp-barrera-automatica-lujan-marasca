@@ -1,4 +1,4 @@
-# tp de lujan nicole y marasca renata 
+# tp de lujan nicole y marasca renata y scascitelli valentina 
 # Requerimientos funcionales
 # RF1: Medir la distancia con el sensor ultrasónico.
 # RF2: Mostrar la distancia en el monitor serie.

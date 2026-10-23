@@ -18,7 +18,7 @@
 # HU4: Como usuario, quiero que el servo se mueva automáticamente.
 # HU5: Como usuario, quiero que el sistema mida continuamente.
 # | Componente                 | Conexión en Arduino                       |
-# | -------------------------- | ----------------------------------- |
+# | -------------------------- | -----------------------------------|
 # | Sensor de distancia (TRIG) | Pin digital 9                             |
 # | Sensor de distancia (ECHO) | Pin digital 10                            |
 # | Sensor de distancia (VCC)  | 5V                                        |
